@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: my-devweb
-  replicas: 15
+  replicas: 6
   template:
     metadata:
       labels:
